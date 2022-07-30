@@ -32,6 +32,8 @@
   </div>
 
    <h1 style="color:green;"> Thankyou, Happy Learning </h1>
+   <br>
+   <br>
    <h1 style="color:blue;"> Visit Again </h1>
 
   
