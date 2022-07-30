@@ -33,8 +33,8 @@
 
    <h1 style="color:green;"> Thankyou, Happy Learning </h1>
    <br>
+   <h2 style="color:33D7FF"></h2>
    <br>
    <h1 style="color:blue;"> Visit Again </h1>
-    <h1 style="color:black;"> TEST </h1>
   
 </form>
