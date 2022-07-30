@@ -32,7 +32,7 @@
   </div>
 
    <h1 style="color:red;"> Thankyou, Happy Learning </h1>
-   <h1 style="color:blue;"> Visit again </h1>
+   <h1 style="color:blue;"> Visit Again </h1>
 
   
 </form>
