@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
+    <body style="background-color:grey;">
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -36,5 +37,5 @@
    <h1 style="color:blue;"> Visit Again </h1>
 
     <p>Login forms are one of the most important user interface elements in mobile applications and websites with a members-only area <a href="https://www.whitehatsec.com/glossary/content/login-page#:~:text=A%20login%20page%20is%20a,or%20part%20of%20a%20website."> click here for more </a>.</p>
-  
+  </body>
 </form>
